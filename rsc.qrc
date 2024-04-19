@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>immagini/antincendio.jpg</file>
+        <file>immagini/temperatura.jpg</file>
+        <file>immagini/umidity.jpg</file>
+        <file>immagini/SensorsApp.jpg</file>
+    </qresource>
+</RCC>
